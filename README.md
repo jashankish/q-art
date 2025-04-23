@@ -1,32 +1,31 @@
-QR Code Image Merger
-====================
+---
 
-Merges a QR code with a background image.
-Only modifies the source image where necessary.
+# 🎨✨ QR Code Image Merger
 
-Makes this:
+Merge beautiful background images with **fully functional** QR codes — seamlessly and with style!  
+Only the parts of the image that *need* to change will be touched 🧠🖼️
 
-![Sample](sample.png)
+---
 
-Decodes with any QR scanner. Just try.
+### 🧪 What It Does
 
-Make your own [here](https://qrim.markusfisch.de).
+Turn this:
 
-Drop a picture to set a new background.
-If you want to keep the merged image, just save it from your browser
-(this seems to work only in Firefox, unfortunately).
+![📷 Original + QR](sample.png)
 
-Dependencies
-============
+Into a **scan-ready** QR code that still looks like your original image!  
+✅ Works with any QR scanner — go ahead, give it a try!  
 
-Generation of the QR code is done with
-[qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator).
+---
 
-QR code detection (for verifying) is done with
-[jsqrcode](https://github.com/LazarSoft/jsqrcode).
+### 📦 Dependencies
 
-License
-=======
+- 🧬 **QR Code Generator**  
+  [`qrcode-generator`](https://github.com/kazuhikoarase/qrcode-generator) – for generating the QR code.
 
-qrim.js is public domain.
-Sample images are from my photo stream.
+- 🧠 **QR Code Verifier**  
+  [`jsqrcode`](https://github.com/LazarSoft/jsqrcode) – for verifying that the QR is still valid.
+
+---
+
+Let me know if you'd like a dark-themed version or want to embed badges, usage examples, or GitHub stats!
