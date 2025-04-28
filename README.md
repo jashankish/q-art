@@ -11,7 +11,7 @@ Only the parts of the image that *need* to change will be touched 🧠🖼️
 
 Turn this:
 
-![📷 Original + QR](sample.png)
+![📷 Original + QR](sample-pic.png)
 
 Into a **scan-ready** QR code that still looks like your original image!  
 ✅ Works with any QR scanner — go ahead, give it a try!  
